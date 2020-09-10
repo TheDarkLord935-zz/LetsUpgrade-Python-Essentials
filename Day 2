@@ -11,16 +11,16 @@ Functions: 1) We can access a range of items in a list by using the slicing oper
               We can also use + operator to combine two lists. This is also called concatenation.
               The * operator repeats a list for the given number of times.
               Furthermore, we can insert one item at a desired location by using the method insert() or insert multiple items 
-              
-by squeezing it into an empty slice of a list.
+              by squeezing it into an empty slice of a list.
            4) We can delete one or more items from a list using the keyword del. It can even delete the list entirely.
               We can use remove() method to remove the given item or pop() method to remove an item at the given index.
-              The pop() method removes and returns the last item if the index is not provided. This helps us implement lists as stacks (first in, last out data structure).
-              
+              The pop() method removes and returns the last item if the index is not provided. This helps us implement lists
+              as stacks (first in, last out data structure).
+              We can also use the clear() method to empty a list.
+           5) 
 
-We can also use the clear() method to emp
 
-ty a list.
-           5)
+
+
 
 
