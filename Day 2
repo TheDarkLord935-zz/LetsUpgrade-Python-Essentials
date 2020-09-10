@@ -1,0 +1,26 @@
+Question 1
+———–––——–—–
+
+A list is a data structure in Python that is a mutable, or changeable, ordered sequence of elements unlike string and tuple. 
+Each element or value that is inside of a list is called an item. 
+Just as strings are defined as characters between quotes, lists are defined by having values between square brackets [ ] .
+
+Functions: 1) We can access a range of items in a list by using the slicing operator :(colon).
+           2) We can use the assignment operator (=) to change an item or a range of items.
+           3) We can add one item to a list using the append() method or add several items using extend() method.
+              We can also use + operator to combine two lists. This is also called concatenation.
+              The * operator repeats a list for the given number of times.
+              Furthermore, we can insert one item at a desired location by using the method insert() or insert multiple items 
+              
+by squeezing it into an empty slice of a list.
+           4) We can delete one or more items from a list using the keyword del. It can even delete the list entirely.
+              We can use remove() method to remove the given item or pop() method to remove an item at the given index.
+              The pop() method removes and returns the last item if the index is not provided. This helps us implement lists as stacks (first in, last out data structure).
+              
+
+We can also use the clear() method to emp
+
+ty a list.
+           5)
+
+
